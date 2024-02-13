@@ -6,7 +6,6 @@ import java.util.Random;
 public class LargeMap implements Drawable{
     
     /*
-     *     200x200 tile map
      *     Each tile is 32x24 pixels
      */
 
